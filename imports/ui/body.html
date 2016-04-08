@@ -1,0 +1,22 @@
+<body>
+  <div class="container">
+  <header>
+      <h1>Todo List</h1>
+  
+      <form class="new-task">
+        <input type="text" name="text" placeholder="Type to add new tasks" />
+      </form>
+   </header>
+    <ul>
+      {{#each tasks}} <!-- hier schrijf je javascript --> 
+        {{> task}} <!-- hier roep je het template task aan en plaats je de li van de task steeds weer op nieuwe met de waarde van de tekst -->
+      {{/each}}
+    </ul>
+  </div>
+</body>
+ 
+<!-- 
+ this is a template and can be uncluded inside HTML with {{> templateNamr }} or referenced in you javascript with Template.templateName -->
+<template name="task">
+  <li>{{text}}</li> <!-- met text zeg je dat hij de waarde mee moet nemen -->
+</template>
