@@ -16,6 +16,19 @@ gebruikers collection (schema) bestaat uit:
 	- beschikbaar/niet beschikbaar
 	- Naam persoon
 	- skills 
+
+##The Core Feature
+#html
+* Create a template login
+* Create a template users-list (with location)
+
+#css
+* create login.scss
+* creat users-list.scss
+
+#js
+* Get data from user
+* users-list.js to render all the data
 	
 ## 5 help klasgenoot. 
 Martijn heeft mij een aantal vragen gesteld over zijn app. 
