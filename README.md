@@ -17,7 +17,7 @@ gebruikers collection (schema) bestaat uit:
 	- Naam persoon
 	- skills 
 	
-## 5 help klasgenott. 
+## 5 help klasgenoot. 
 Martijn heeft mij een aantal vragen gesteld over zijn app. 
 Zoals als je aankomt op een onbekende plek met de trein en mijn app geeft je een route naar alle goede koffie tentjes zou je die route dan doorlopen. Hier heb ik nee op geantwoord, ik wilde weten waar de beste koffie te vinden was en dit zou hij kunnen doen door bijv. data te gebruiken van sites als bartsboekje (moet hij wel de eigenaaressen benaderen). Dan bepaal ik zelf wel hoe ik daar kom. 
 
